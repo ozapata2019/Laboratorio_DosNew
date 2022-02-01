@@ -1,0 +1,29 @@
+{
+  "name": "calculadora_udea",
+  "version": "1.0.0",
+  "description": "calculadoara udea creado en clase alboratorio ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozapata2019/Laboratorio_DosNew.git"
+  },
+  "keywords": [
+    "Suma",
+    "Resta",
+    "Multiplicacion",
+    "Division"
+  ],
+  "author": "Carlos Zapata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozapata2019/Laboratorio_DosNew/issues"
+  },
+  "homepage": "https://github.com/ozapata2019/Laboratorio_DosNew#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {}
+}
